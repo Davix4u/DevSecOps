@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: my-app
-        image: chisomjude/student-tracker:latest  #use your own image
+        image: davixs4u/student-tracker:latest  #use your own image
         ports:
         - containerPort: 8000
         env:
